@@ -1,0 +1,197 @@
+/* Inserta tu código aqui */
+
+.nav {
+	background-color: #333333;
+	height: 130px;
+	width: 100%;
+}
+
+.nav ul {
+	list-style: none;
+}
+
+.nav .nav1 {
+	list-style: none;
+	display: flex;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.nav .nav2 {
+	float: right;
+	display: flex;
+	margin-top: 55px;
+
+}
+
+.nav2 a {
+	text-decoration: none;
+	color: white;
+	padding: 13px;
+	font-family: sans-serif;
+}
+
+.episodes {
+	display: flex;
+	padding-top: 20px;
+}
+
+.episodes p {
+	margin-top: 10px;
+	color: #336699;
+	margin-left: 8px;
+}
+
+.header {
+	background-color: #eeeeee;
+	border: 0.1px solid #bbbbbb;
+}
+
+.images {
+	display: inline-block;
+}
+
+.images .col-3 {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.episodes h2 {
+	margin-left: 15px;
+}
+
+.images .col-3 img {
+	width:100%;
+	height: auto;
+	border: 3px solid white;
+}
+
+.main {
+	margin-top: 30px;
+	font-family: sans-serif;
+}
+
+.images .col-3 p {
+	color: #336699;
+}
+
+.col-2 img {
+	width: 100%;
+	border: 3px solid white;
+}
+
+.col-2 p {
+	padding-bottom: 30px;
+	color:blue;
+	font-size: 9px;
+}
+
+aside {
+	font-family: sans-serif;
+	line-height: 2.1;
+}
+
+
+aside h3 {
+	color:#555555;
+	border-bottom:  1px solid #ddd;
+	padding-bottom: 5px;
+}
+
+.info {
+	width:100%;
+	margin-bottom: 20px;
+}
+
+footer {
+	background: #3b3b3b;
+	width: 100%;
+	height: 180px;
+	clear: both;
+	color:white;
+	text-align: center;
+	font-size: 13px;
+	padding-top: 10px;
+	line-height: 2.1;
+}
+
+footer a {
+	text-decoration: none;
+	color:#6a6a6a;
+}
+
+
+.second-menu {
+	clear: both;
+	width:90%;
+	margin-left:130px;
+	margin-right:130px;
+	padding-top:20px;
+	color:#6a6a6a;
+
+}
+
+footer .rights {
+	color:#6a6a6a;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
